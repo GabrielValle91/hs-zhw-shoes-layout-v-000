@@ -110,8 +110,11 @@ iframe {
   margin: 0 auto;
 }
 
-.shadow {
+figure{
   float: left;
+}
+
+.shadow {
   box-shadow: 0 3px 10px #333;
 }
 
