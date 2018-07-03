@@ -110,9 +110,14 @@ iframe {
   margin: 0 auto;
 }
 
+.col-2{
+  float: left;
+  width: 64%;
+}
+
 .col-1{
   float: left;
-  width: 33%;
+  width: 32%;
 }
 
 figure{
