@@ -120,10 +120,6 @@ iframe {
   width: 32%;
 }
 
-section > p{
-  width: 30%;
-  clear: both;
-}
 
 .shadow {
   box-shadow: 0 3px 10px #333;
