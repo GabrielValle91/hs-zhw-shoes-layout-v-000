@@ -118,7 +118,7 @@ iframe {
 .col-1{
   float: left;
   width: 31%;
-  margin-bottom: 40px;
+  margin-bottom: 100px;
 }
 
 [class*="col-"]{
