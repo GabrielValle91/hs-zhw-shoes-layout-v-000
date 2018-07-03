@@ -112,6 +112,7 @@ iframe {
 
 figure{
   float: left;
+  width: 30%;
 }
 
 section > p{
