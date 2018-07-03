@@ -127,10 +127,6 @@ iframe {
 .first {
   margin-left: 0%;
 }
-.right{
-  float: right;
-}
-
 
 .shadow {
   box-shadow: 0 3px 10px #333;
