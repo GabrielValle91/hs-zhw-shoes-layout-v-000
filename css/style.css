@@ -114,9 +114,12 @@ figure{
   float: left;
 }
 
+section > p{
+  clear: both;
+}
+
 .shadow {
   box-shadow: 0 3px 10px #333;
-  clear: both;
 }
 
 .milk_text {
