@@ -118,6 +118,7 @@ iframe {
 
 .col-1:first-of-type{
   float: left;
+  width: 31%;
   margin-right: 0px;
   margin-bottom: 0px;
 }
