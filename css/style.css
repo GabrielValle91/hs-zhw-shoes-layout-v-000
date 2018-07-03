@@ -110,6 +110,10 @@ iframe {
   margin: 0 auto;
 }
 
+#holiday-sale{
+  float:none;
+}
+
 figure{
   float: left;
   width: 30%;
