@@ -128,7 +128,7 @@ iframe {
   margin-left: 0%;
 }
 .right{
-  height: 70%;
+  float: right;
 }
 
 
