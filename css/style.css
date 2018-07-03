@@ -116,6 +116,7 @@ figure{
 
 .shadow {
   box-shadow: 0 3px 10px #333;
+  float: left;
 }
 
 .milk_text {
