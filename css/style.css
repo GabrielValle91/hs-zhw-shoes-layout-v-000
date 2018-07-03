@@ -117,6 +117,7 @@ iframe {
 }
 
 .col-1:first-of-type{
+  float: left;
   margin-right: 0;
   margin-bottom: 0px;
 }
