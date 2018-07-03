@@ -123,7 +123,7 @@ iframe {
 }
 
 .col-1{
-  float: right;
+  float: left;
   width: 33%;
   margin: 0px 5px 10px 0px;
 }
