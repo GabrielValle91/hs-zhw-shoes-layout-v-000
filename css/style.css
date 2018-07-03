@@ -116,14 +116,16 @@ iframe {
   margin: 0px 20px 10px 0px;
 }
 
+.col-1:first-of-type{
+  margin-right: 0;
+}
+
 .col-1{
   float: left;
   width: 30%;
   margin: 0px 20px 10px 0px;
 }
-.col-1:first-of-type{
-  margin-right: 0;
-}
+
 
 .shadow {
   box-shadow: 0 3px 10px #333;
