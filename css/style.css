@@ -113,13 +113,12 @@ iframe {
 .col-2{
   float: left;
   width: 64%;
-  margin-bottom: 2px;
 }
 
 .col-1{
   float: left;
   width: 31%;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 [class*="col-"]{
