@@ -121,6 +121,9 @@ iframe {
   margin: 0 0 10px;
 }
 
+.border_right:first-of-type{
+  padding-left: 0;
+}
 .border_right {
   float: left;
   width: 33%;
